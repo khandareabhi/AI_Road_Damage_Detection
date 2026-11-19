@@ -1,0 +1,8 @@
+recommend developing it in these stages:
+1. Phase 1 – Dataset & Environment: Download road damage dataset, set up Python environment and project folders.
+2. Phase 2 – AI Model: Train or integrate a model for crack and pothole detection.
+3. Phase 3 – Flask Backend: Build image upload, prediction API, and MongoDB integration.
+4. Phase 4 – Frontend: Create a modern responsive dashboard.
+5. Phase 5 – Reporting: Display damage type, confidence, image, date, and location.
+6. Phase 6 – Deployment: Dockerize the application and deploy it to Render.
+7. Phase 7 – GitHub: Upload the source code, documentation, screenshots, and README.
